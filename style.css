@@ -1,0 +1,23 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+nav{
+    background-color:rgb(253, 27, 27);
+    height: 300px;
+}
+.nav-center{
+    background-color: black;
+}
+#hotel{
+    background-color: aqua;
+}
+#nav{
+    background-color: bisque;
+    
+}
+#media{
+    background-color: blueviolet;
+}
+
