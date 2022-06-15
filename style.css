@@ -6,16 +6,20 @@ html,body{
 nav{
     background-color:rgb(253, 27, 27);
     height: 300px;
+    padding: 20px;  
 }
 .nav-center{
-    background-color: black;
+    background-color: black; 
+    padding:20px;
+    flex-direction: column;
+    display: flex;
 }
 #hotel{
     background-color: aqua;
+    
 }
 #nav{
     background-color: bisque;
-    
 }
 #media{
     background-color: blueviolet;
